@@ -1,5 +1,7 @@
 # 📚 Projeto de Estudos com NotebookLM: Benjamin Graham
 
+- https://notebooklm.google.com/notebook/ae888904-e1a2-484d-8002-2569f4dbc5f3
+
 ## 🎯 Contexto e Objetivos
 
 Este projeto foi desenvolvido utilizando o NotebookLM como ferramenta de apoio ao aprendizado e síntese de conhecimento sobre **Benjamin Graham**, considerado o pai do Value Investing (Investimento em Valor).
